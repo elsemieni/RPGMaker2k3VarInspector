@@ -37,4 +37,4 @@ This tool is licensed under **MIT license** (see LICENSE), and their usage is un
 This tool uses the NormadMemory UDF library, by Normad. 
 
 ## What is Entidad2?
-Sincerely I have no idea...
+Sincerely I have no idea... 🤷
